@@ -1,0 +1,47 @@
+.main-desc {
+    font-size: 18px;
+
+}
+
+.main-social {
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+.btn-filter {
+    color: blue;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.form-control {
+    background: none !important;
+    border: none !important;
+    border-bottom: 1px solid black !important ;
+}
+
+.form-group label {
+    font-size: 15px;
+    color: #323232;
+}
+
+.main-filter, .main-content {
+    margin-top: 80px;
+}
+
+.card {
+    border: none !important;
+}
+
+.pagination-icon {
+    font-size: 25px;
+
+}
+
+.page-link {
+    border: none !important;
+    color: black !important;
+}
+
+
+
